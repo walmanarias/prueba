@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
+Questions for the interview
+1. Please render the list of objects in the parent component template using an Angular directive.
+2. Move the functionality fo displaying each object properties to the child component and then called it from the parent component.
+3. Add a button to show/hide the list of objects
+4. Conditionally add a css class to provide some stylings to the p tag in the child component.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
