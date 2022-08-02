@@ -3,10 +3,15 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
 
 Questions for the interview
-1. Please render the list of objects in the parent component template using an Angular directive.
-2. Move the functionality fo displaying each object properties to the child component and then called it from the parent component.
-3. Add a button to show/hide the list of objects
-4. Conditionally add a css class to provide some stylings to the p tag in the child component.
+1. Please render the list of objects in the parent component template using an Angular directive. *
+2. Move the functionality for displaying each object properties to the child component and then called it from the parent component. *
+3. Add a button to show/hide the list of objects *
+4. Change the cta button text conditionally to 'show' or 'hide' accordingly. *
+5. Conditionally add a css class to provide some stylings to the p tag and strong tag: 
+      *blue color for strong tag for item[3]
+      *gray color for p tag for item[3]
+6. Add an event to item[3] from typescript file to show an Alert that says 'Item <number> clicked'. In this case it should say 'Item 3 clicked'.
+7. Create a reactive form to add an item to the list.
 
 ## Development server
 
